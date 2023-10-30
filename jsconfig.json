@@ -1,0 +1,8 @@
+{
+	"compilerOptions": {
+		"baseUrl": "./src", // Replace with the actual path to your source directory.
+		"paths": {
+			"@/*": ["*"]
+		}
+	}
+}

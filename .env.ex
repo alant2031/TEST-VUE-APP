@@ -1,0 +1,1 @@
+VITE_BASE_URL="https://www.cheapshark.com/api/1.0/deals?pageNumber=0&pageSize=12&storeID=1&onSale=1&AAA=1"
